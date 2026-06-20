@@ -77,5 +77,5 @@ Currently building: production-grade ML systems focused on **NLP**, **RAG**, and
 
 <div align="center">
   <i>Open to ML Engineer roles and AI/ML fellowships — Mumbai or Remote</i><br/>
-  📬 Reach me on <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">LinkedIn</a>
+  📬 Reach me on <a href="https://www.linkedin.com/in/chirag-jain6667/">LinkedIn</a>
 </div>
